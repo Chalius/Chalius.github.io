@@ -8,8 +8,8 @@
 </head>
 <body>
 
-    
-    <h1 style="color:green;text-align: center;">Este es una página de ejemplo para el curso de construcción</h1>
+    <center>
+    <h1 style="color:green;">Este es una página de ejemplo para el curso de construcción</h1>
 
 
     <h3>
@@ -19,10 +19,10 @@
     <br>
     <h2>Esto es para el laboratorio 13 del curso de 
             construcción y pruebas de software del 4to semestre.</h2>
-        <a href="www.google.com">Google</a>
+        <a href="qwww.google.com">Google</a>
         <a href="www.facebook.com">facebook</a>
 
-
+    </center>
 
 </body>
 </html>
